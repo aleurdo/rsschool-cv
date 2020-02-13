@@ -1,0 +1,15 @@
+body {
+    font-family: "Helvetica", "Tahoma", sans-serif;
+    margin: auto;
+    width:500px; 
+    background-color:lightsteelblue;
+}
+
+.cv{
+    
+    text-align: left;
+    margin-top: 50px;
+}
+.myphoto {  
+margin-right: 10px;
+}
